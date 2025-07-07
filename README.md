@@ -1,5 +1,6 @@
 # ¡Hey! Soy Josue Dircio G 👋
-
+![Visitors badge](https://komarev.com/ghpvc/?username=jdirciog&style=for-the-badge&label=Visitas&abbreviated=true)
+![Followers badge](https://img.shields.io/github/followers/jdirciog?style=for-the-badge&label=Seguidores)
 <!--
 **jdirciog/jdirciog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
